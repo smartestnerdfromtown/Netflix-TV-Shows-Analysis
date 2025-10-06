@@ -12,3 +12,9 @@ Genre Analysis:
 - Total Number of TV Shows.
 - Pie Chart showing shares of various genres according to the number of titles produced under that genre. 
 - Bar Chart showing the number of titles per each genre.
+
+Rating & Duration Analysis:
+- Donut chart showing number of titles per rating.
+- Number of Ratings.
+- Stacked Column chart showing titles by genre and rating.
+- Column Chart showing number of titles per genre.
