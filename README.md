@@ -18,3 +18,12 @@ Rating & Duration Analysis:
 - Number of Ratings.
 - Stacked Column chart showing titles by genre and rating.
 - Column Chart showing number of titles per genre.
+
+
+---
+Movies:
+
+Overview Page:
+- Range showing the number of movies produced by selected country.
+- Bar chart showing the number of movies produced per country.
+- Map with bubbles showing the number of produced movies. 
