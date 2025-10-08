@@ -27,3 +27,8 @@ Overview Page:
 - Range showing the number of movies produced by selected country.
 - Bar chart showing the number of movies produced per country.
 - Map with bubbles showing the number of produced movies. 
+
+Years Analysis Page:
+- Column Chart showing the number of movies produced per year
+- Pie Chart showing the share of years.
+- Matrix for detailed info.
