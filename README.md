@@ -37,3 +37,9 @@ Content Release & Acquisition Strategy
 - A bar chart displaying the count of movies by release_year
 - A treemap showing the distribution of content by country (or top 10 countries). This visualizes the geographic focus of the library.
 - A KPI card showing the total number of movies selected for each country.
+
+Genre & Category Populatiry
+- Bar chart showing the number of movies per category.
+- Column chart showing the number of movies per category with legend rating.
+- bar chart showing the number of movies per rating
+- range clarifiying number. 
